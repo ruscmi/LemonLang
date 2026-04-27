@@ -262,7 +262,7 @@ ende - meaning of the end of logic  )";
 									m[v_file[1]] = vm;
 								}
 							}
-                            else if(v_file[0] == "print") {
+                            else if(v_file[0] == "printl") {
                                 for(size_t i = 1; i < v_file.size(); i++) {
                                     if(m.count(v_file[i]) > 0) std::cout << m[v_file[i]] << " ";
                                     else std::cout << v_file[i] << " ";

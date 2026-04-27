@@ -6,5 +6,5 @@
 Lemon - interpreter on C++ for newbies coders
 # Logo
 <p align="center">
-  <img src="lmn.png">
+  <img src="lmn.png" width="200">
 </p>

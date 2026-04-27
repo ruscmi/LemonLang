@@ -16,7 +16,7 @@ int main() {
     while(isRunning) {
         std::vector<std::string> v;
         std::string inpline;
-        std::cout<<"input or '-help' for commands info: ";
+        std::cout<<"input or '--help' for commands info: ";
         std::getline(std::cin, inpline);
         std::stringstream ss(inpline);
         v.clear();

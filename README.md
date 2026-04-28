@@ -4,8 +4,8 @@ Russian [README.ru](README.ru.md)
   <img src="bannerl.png">
 </p>
 
-# LemonLang
-Greetings. LemonLang is my C++ interpreter with the simplest string parsing logic. At the moment, it is quite simple in logic and works quite quickly. If you like my project, if you want, give me a star, I will be very happy about it. 
+# LemonenLang
+Greetings. LemonenLang is my C++ interpreter with the simplest string parsing logic. At the moment, it is quite simple in logic and works quite quickly. If you like my project, if you want, give me a star, I will be very happy about it. 
 [Example file](calc.lmn) (run in code) 
 # Logo
 <p align="left">

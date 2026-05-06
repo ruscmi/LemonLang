@@ -11,3 +11,9 @@ Greetings. LemonenLang is my C++ interpreter with the simplest string parsing lo
 <p align="left">
   <img src="lmn.png" width="200">
 </p>
+
+# How do I install and compile sources?
+First, copy the repository
+` ` `Bash
+git clone https://github.com/ruscmi/LemonenLang.git
+` ` `

@@ -14,6 +14,16 @@ Greetings. LemonenLang is my C++ interpreter with the simplest string parsing lo
 
 # How do I install and compile sources?
 First, copy the repository
-` ` `Bash
-git clone https://github.com/ruscmi/LemonenLang.git
-` ` `
+`git clone https://github.com/ruscmi/LemonenLang.git`
+Go to the source folder
+in linux distros
+`cd ~/src`
+or just change the location where the sources are located
+then compile all the files and build lmnlang
+`g++ main.cpp logic.h lmnlang.cpp -o lmnlang`
+next, we run
+`./lmnlang`
+thank you if you follow these instructions,
+since the code is completely open,
+you can make your own changes to it,
+thank you for using it.

@@ -1,7 +1,7 @@
 # Hello!
 Russian [README.ru](README.ru.md)
 <p align="center">
-  <img src="bannerl.png">
+  <img src="bannerl.jpg">
 </p>
 
 # LemonenLang

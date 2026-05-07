@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bannerl.png">
+  <img src="bannerl.jpg">
 </p>
 
 # LemonLang
